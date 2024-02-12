@@ -1,20 +1,20 @@
 :root {
   /** colors */
   --color-name: custom;
-  --color-bg-shade: #131316;
-  --color-bg-base: #2a2a2a;
-  --color-bg-surface: #2a2a2a;
-  --color-bg-highlight: #222226;
-  --color-fg-shade: #969696;
-  --color-fg-base: #BBBBBB;
-  --color-fg-surface: #E0E0E0;
-  --color-fg-highlight: #7da770;
-  --color-primary-bg: #777777;
-  --color-primary-base: #EEEEEE;
-  --color-primary-fg: #FFFFFF;
-  --color-secondary-bg: #252528;
-  --color-secondary-base: #494950;
-  --color-secondary-fg: #6E6E78;
+  --color-bg-shade: #202020;
+  --color-bg-base: #282828;
+  --color-bg-surface: #303030;
+  --color-bg-highlight: #383838;
+  --color-fg-shade: #C29B60;
+  --color-fg-base: #D6BC94;
+  --color-fg-surface: #EADDC8;
+  --color-fg-highlight: #FEFEFD;
+  --color-primary-bg: #376137;
+  --color-primary-base: #7BB57C;
+  --color-primary-fg: #DCECDD;
+  --color-secondary-bg: #836332;
+  --color-secondary-base: #D6BC94;
+  --color-secondary-fg: #FFFFFF;
   --color-palette-red: #E06C75;
   --color-palette-green: #98C379;
   --color-palette-yellow: #E5C07B;
